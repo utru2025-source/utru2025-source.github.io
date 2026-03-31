@@ -10,7 +10,7 @@ cover: 259.jpg
 
 > **摘要**：作为新生代乒乓球的领军人物，林昀儒以其独特的"小快灵"打法打破了传统力量型主导的格局。本文将从发球、接发球、反手体系及战术意识四个维度，深度剖析这位"沉默杀手"的技术内核。
 
-![林昀儒比赛瞬间](https://i1.hdslb.com/bfs/archive/8f8c5e8f9e5f5e5f5e5f5e5f5e5f5e5f.jpg)
+![林昀儒比赛瞬间](https://www.google.com.hk/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fsports.ltn.com.tw%2Fnews%2Fpaper%2F1305320&ved=0CBYQjRxqFwoTCPiUoaXsyZMDFQAAAAAdAAAAABAI&opi=89978449)
 *林昀儒在比赛中展现出色的反手技术*
 
 ---
