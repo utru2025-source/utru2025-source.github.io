@@ -3,14 +3,14 @@ title: 林昀儒技术分析：沉默杀手的技术体系拆解
 date: 2026-03-31
 tags: 乒乓球
 sticky: 100
-cover: 259.jpg
+cover: (/259.jpg)
 ---
 
 # 🏓 林昀儒技术分析：沉默杀手的技术体系拆解
 
 > **摘要**：作为新生代乒乓球的领军人物，林昀儒以其独特的"小快灵"打法打破了传统力量型主导的格局。本文将从发球、接发球、反手体系及战术意识四个维度，深度剖析这位"沉默杀手"的技术内核。
 
-![林昀儒比赛瞬间](https://www.google.com.hk/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fsports.ltn.com.tw%2Fnews%2Fpaper%2F1305320&ved=0CBYQjRxqFwoTCPiUoaXsyZMDFQAAAAAdAAAAABAI&opi=89978449)
+![林昀儒比赛瞬间](/259.jpg)
 *林昀儒在比赛中展现出色的反手技术*
 
 ---
